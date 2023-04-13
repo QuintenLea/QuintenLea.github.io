@@ -11,7 +11,7 @@
     
     li a {
       display: block; /* zorgt voor menu in blok vorm*/
-      color: white;
+      color: rgb(230, 24, 24);
       text-align: center;
       padding: 18px 18px;
       text-decoration: none;
@@ -25,9 +25,9 @@
 
   #tekst1{
     font-family: Lucida, Monospace;
-    color: White;
+    color: rgb(7, 7, 7);
     border-radius: 25px; /*maakt de afbeelding rond*/
-    background: #483D8B;
+    background: #cc1616;
     border-style: inset; /*De border om de tekst heen*/
     width: 500px; /*aanpassingen voor de breedte*/
     padding-bottom: 100px;
@@ -41,7 +41,7 @@
 
   h1{
     font-family: Lucida, Monospace;
-    color: White;
+    color: rgb(206, 19, 19);
     font-size: 20px; /*grootte van de tekst*/
   }
   
@@ -57,7 +57,7 @@
 /*De opmaak en plaats van de afbeelding voor de homepage*/
 
   footer{
-    color: White;
+    color: rgb(204, 16, 16);
     background-color: #483D8B;
     float: left;
     width: 100%;
@@ -74,7 +74,7 @@
   }
   
   .inhoud a {
-    color: White;
+    color: rgb(6, 6, 6);
     padding: 10px 14px;
     display: block;
   }
@@ -99,8 +99,8 @@
   .kleur .content {
     position: absolute; /* hiermee zet ik het transparante vlak bovenop mijn img*/
     bottom: 0; 
-    background: rgba(0, 0, 0, 0.5); /*het doorzichtige vlak boven de img vaan kleurmodellen*/
-    color: White; 
+    background: rgba(227, 12, 12, 0.5); /*het doorzichtige vlak boven de img vaan kleurmodellen*/
+    color: rgb(8, 8, 8); 
     font-size: 20px;
     padding-top: 63px;
     padding-right: 470px;
@@ -124,9 +124,9 @@
 
   .tekst2{
     font-family: Verdana, sans-serif;
-    color: white;
+    color: rgb(0, 0, 0);
     border-radius: 25px;
-    background: #483D8B;
+    background: #e00e0e;
     border-style: inset;
     width: 310px;
     padding-bottom: 70px;
@@ -144,8 +144,8 @@ h3 {text-align: center;}
 /*De opmaak voor de kopjes van de kolommen*/
 
   a:link, a:visited {
-    background-color: #483D8B;
-    color: white;
+    background-color: #eb1a1a;
+    color: rgb(5, 5, 5);
     padding: 10px 20px;
     text-align: center;
     text-decoration: none;
@@ -155,9 +155,9 @@ h3 {text-align: center;}
 
   .tekst3{
     font-family: Verdana, sans-serif;
-    color: white;
+    color: rgb(9, 9, 9);
     border-radius: 25px;
-    background: #483D8B;
+    background: #d00e0e;
     border-style: inset;
     width: 530px;
     padding-bottom: 100px;
