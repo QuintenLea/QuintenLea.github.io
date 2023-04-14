@@ -79,11 +79,11 @@
     display: block;
   }
   
-  .inhoud a:hover {background-color: #3f3579} /*als je met je muis over 3 lagen gaat word het een andere kleur*/
+  .inhoud a:hover {background-color: #1912e4} /*als je met je muis over 3 lagen gaat word het een andere kleur*/
   
   .dropdown:hover .inhoud {display: block;} /*de vorm van de onderwerpen die je uitklapt onder 3 laagen model*/
   
-  .dropdown:hover .dropbtn {background-color: #3f3579;} /*als je met je muis over de onderwerpen onder 3 lagen model gaaat word het een andere kleur*/
+  .dropdown:hover .dropbtn {background-color: #321ae5;} /*als je met je muis over de onderwerpen onder 3 lagen model gaaat word het een andere kleur*/
 
 /*Hierboven staat de code om een uitklap menu te maken*/ 
 
